@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "307561831847",
+    "project_id": "prak-mobile-e56c3",
+    "storage_bucket": "prak-mobile-e56c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307561831847:android:97c661c7aaac4e97116a82",
+        "android_client_info": {
+          "package_name": "com.example.onlineshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdkzfnjdKDjaJXqTnPko0C9Ih1__-0AFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307561831847:android:effff01ed6c0e323116a82",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan_9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdkzfnjdKDjaJXqTnPko0C9Ih1__-0AFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
